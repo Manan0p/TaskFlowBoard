@@ -64,7 +64,6 @@ The schema supports hierarchical organization (users → projects → tasks) wit
 - **Lucide React**: Consistent icon set for UI elements
 
 ### Development Tools
-- **Replit Platform**: Integrated development environment with cartographer and dev banner plugins
 - **TypeScript**: Static type checking for enhanced developer experience
 - **Tailwind CSS**: Utility-first CSS framework for rapid UI development
 - **Zod**: Runtime type validation for forms and API data
